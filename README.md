@@ -25,7 +25,7 @@ Ejecutar el notebook:
 La creación y el testeo del código fueron realizados en Visual Studio Code, por lo tanto se recomienda utilizarlo para abrir y ejecutar el notebook.
 
 Abrir el archivo que se encuentra en:
-P2/Notebooks/ejercicio10.ipynb
+Notebooks/ejercicio10.ipynb
 
 
 Alain Guillon 26330/6
